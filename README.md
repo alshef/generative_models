@@ -1,2 +1,2 @@
-# generative_models
+# Generative Models
 Experiments with Generative Models
